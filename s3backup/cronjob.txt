@@ -1,0 +1,1 @@
+0 16 * * * /pathTo/tangerine-backup/sync.sh > /pathTo/tangerine-backup/logs/sync_cron.log >/dev/null 2>&1
