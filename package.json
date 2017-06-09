@@ -26,8 +26,10 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "cradle": "^0.6.9",
+    "http-status-codes": "^1.1.6",
     "inquirer": "^0.10.1",
     "jsonfile": "^2.2.2",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "unirest": "^0.5.1"
   }
 }
